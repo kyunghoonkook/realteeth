@@ -1,4 +1,4 @@
-import { Cloud, Droplets, Wind, Sunrise, Sunset } from 'lucide-react';
+import { Cloud, Droplets, Wind, Sunrise } from 'lucide-react';
 import { formatTemperature, formatTime, getWeatherIconUrl } from '@shared/lib';
 import type { CurrentWeather } from '@entities/weather';
 
